@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-My name is Manas
+My name is Manas Vashisht
